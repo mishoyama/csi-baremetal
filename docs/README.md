@@ -13,6 +13,7 @@ Bare-metal CSI Driver is a [CSI spec](https://github.com/container-storage-inter
 Features
 --------
 
+
 - [Dynamic provisioning](https://kubernetes-csi.github.io/docs/external-provisioner.html): Volumes are created dynamically when `PersistentVolumeClaim` objects are created.
 - Inline volumes
 - LVM support
